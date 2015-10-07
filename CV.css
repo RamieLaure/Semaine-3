@@ -1,0 +1,52 @@
+CSS
+
+/*-------------------------------------------------------------*/
+$CONTENU
+/*-------------------------------------------------------------*/
+/*
+-body
+    -div class header : titre + pres
+    
+    -div class content
+        -div class nav : 
+            div à propos 
+            div photo
+        -div class main
+        -div class main__exp
+        
+    -div class footer
+*/
+
+/*-------------------------------------------------------------*/
+$CSS
+/*-------------------------------------------------------------*/
+
+body {
+ background-color:#ecf0f1;
+ }
+
+.header {
+
+}
+ 
+.content {
+
+}
+
+.nav {
+
+}
+
+.main {
+
+}
+
+.main__exp {
+
+}
+
+.footer {
+
+}
+
+
